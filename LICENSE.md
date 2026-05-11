@@ -1,4 +1,4 @@
-# 
+# Enhance MATLAB for macOS with automatic MATLAB for macOS Integration | formula-editor + data-import-export, the #1 integration. Includes formula-editor and data-import-export for
 
 
 
